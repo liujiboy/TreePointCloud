@@ -1,0 +1,13 @@
+ply
+format binary_little_endian 1.0
+comment author: Jianling Zhou, Ji Liu, Yanlin
+element vertex 37
+property float x
+property float y
+property float z
+element face 0
+property uchar intensity
+property list uchar int vertex_indices
+end_header
+Œœ|ÀAÉ§@RÈ@Äé¿¡»>¿Ä&8@U\3ÀÊd@¿Q@~õÆ¿Ë¼ÀVšÅ>ù$"À˜w9Àí™?…;6Áo¦£ÀÐ5òÀ ÃÑÀ×B3Á5UÇÀÂì@WNwÁ„?•@Ù(ÁñåÀ‘²Á¿–@ÁÈòå¿½ôíÀ¸ÁgÁaÅ>úù"Á½T7À)ö¼À«Ù3ÁO©ÔÀ'+·>˜}3ÁHÚ1Àõ9¡À’DÁ¢EÁÀ¹wŽÀlDÁo–ÀÚÕ<¿rûCÁÿz1ÀOïÍ¿4ödÁàµZÀ.:5¿F{uÁuU6À\
+"ÀöÝ‚ÁXñxÀ‹³P>úƒÁ„ÀËF×¿2*‹ÁeLÀMú`¿#“Á2EÀ*—@Ëø“Áá/6?¥q@f0œÁ½·[>ã|í@›½œÁÿ1@+ÎtÀöœ¢Á™,ÈÀŽÒÐ@dá¤Á…Ë@+:€?ðU¬ÁÕ½³¿ê†€?Ð†´Á´Ú´¿dát@ŠÒ´Áor.<ôÀzj»ÁÌ§À~7@µõ¼ÁžžÖ¾TR„?áÍÄÁóÁ¿ö›†?ÉçÌÁÆ]È¿ü‡‹?k	ÝÁØ¿ŸW?,	åÁ®%ä¿
