@@ -1,5 +1,6 @@
 If you use our data set for experiments, please cite our paper.
 
+```
 @misc{lin2020novel,
     title={A novel tree-structured point cloud dataset for skeletonization algorithm evaluation},
     author={Yan Lin and Ji Liu and Jianlin Zhou},
@@ -8,3 +9,4 @@ If you use our data set for experiments, please cite our paper.
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
